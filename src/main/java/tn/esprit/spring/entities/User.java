@@ -17,7 +17,7 @@ import javax.persistence.TemporalType;
 @Entity
 @Table(name = "T_USER")
 public class User implements Serializable {
-	  
+	//commentaire modif 
 	//commentaire 4Twin3
 	// commentaitre 3ALINFO5 
 	
